@@ -5,7 +5,7 @@ Hello Al, please make use of this boilerplate code which has parcel bundler
 and update node package json to deploy the build from the desired folder,
 ```
 
-### Package Used
+### npm Package Used
 - THREE JS
 - Parcel
 
