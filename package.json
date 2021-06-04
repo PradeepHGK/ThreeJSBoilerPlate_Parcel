@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
-    "prod": "parcel build src/index.html",
-    "start": "npm run prod"
+    "prod": "parcel build src/index.html --out-dir docs --public-url ./",
+    "start": "parcel src/index.html --out-dir docs"
   },
   "keywords": [],
   "author": "",
