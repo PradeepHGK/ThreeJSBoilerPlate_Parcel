@@ -1,7 +1,7 @@
 # ThreeJSBoilerPlate_Parcel
 
 ```
-Hello Al, please make use of this boilerplate code which has parcel bundler 
+Hey folks, please make use of this boilerplate code which has parcel bundler 
 and update node package json to deploy the build from the desired folder,
 ```
 
